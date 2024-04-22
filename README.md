@@ -17,7 +17,7 @@ Check out the live version of my portfolio at [your-portfolio-url.com](https://y
 
 ## About Me
 
-In this section, I provide a brief introduction about myself, highlighting my background, interests, and goals. I also mention any relevant education or certifications I have obtained.
+In this section, I offer a concise introduction about myself, highlighting my background, interests, and goals. I also include any relevant education or certifications I have obtained.
 
 ## Skills
 
